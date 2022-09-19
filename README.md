@@ -1,2 +1,3 @@
 # Pygame-Collision
- Simple top-down collision
+ Simple top-down tile world renderer and movement/collision engine using Pygame.
+ 
